@@ -1,7 +1,7 @@
 📚 Library Management System
 A full-stack web application built with Spring Boot and React.js to manage book borrowing in a library.
 
-🚀 Features \n
+🚀 Features
 🔍 Search & Browse: Find books available in the library
 📖 Borrow Books: Users can borrow books when available
 🔄 Return Books: Manage due dates and book returns
