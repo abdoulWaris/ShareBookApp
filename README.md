@@ -23,7 +23,7 @@ A full-stack web application built with Spring Boot and React.js to manage book 
 ## 🏗️ Installation & Setup
 
 ### 1️⃣ Backend Setup
-git clone https://github.com/yourusername/library-management-system.git
+git clone [https://github.com/yourusername/library-management-system.git](https://github.com/abdoulWaris/ShareBookApp.git)
 cd backend
 mvn clean install
 mvn spring-boot:run
